@@ -21,6 +21,7 @@
         ]
       }
     ],
-    "dest": "jeallyn_demo_1"
+    "dest": "jeallyn_demo_1",
+    "template": "op.html"
   }
 }
